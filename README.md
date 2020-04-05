@@ -2,7 +2,7 @@
 
 In this i would be performing analysis on Kaggle Cricket matches ODI dataset using Hive in cloudera.I have creted a youtube video as well of me performing the below analysis :
 
-check the video here:  https://www.youtube.com/watch?v=HYB6cwfjazE
+check out the video here:  https://www.youtube.com/watch?v=HYB6cwfjazE
 
 1. Total number of ODI played during the time frame
 2. Total number of Teams
